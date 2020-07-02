@@ -1,0 +1,21 @@
+.pass-field {
+    border: 2px dashed #aaa;
+    height: 200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.gen-btn {
+    border-radius: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.pass-field p {
+    text-align: center;
+}
+
+p.pass {
+    font-family: monospace;
+    padding: 10px;
+}
